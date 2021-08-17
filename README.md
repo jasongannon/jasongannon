@@ -1,4 +1,4 @@
-I am Jason Gannon, a technical writer with a love of language and technology
+Business analyst and technical writer who is out of practice with Git.
 
 <!---
 jasongannon/jasongannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
