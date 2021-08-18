@@ -1,4 +1,4 @@
-Business analyst and technical writer who is out of practice with Git.
+Business analyst and technical writer who is out of practice with Github and VS Code.
 
 <!---
 jasongannon/jasongannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
