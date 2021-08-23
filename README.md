@@ -1,4 +1,4 @@
-I write product documentation (which nowadays mostly means API documentation)
+I write product documentation (which nowadays mostly means API documentation).
 
 
 <!---
