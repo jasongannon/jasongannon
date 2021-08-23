@@ -1,6 +1,4 @@
-Senior technical writer and analyst with 17 years’ experience supporting teams with business analysis and excellent technical documentation. Extensive experience bridging needs between client and technical team of software developers.
-Strong business analyst—experienced with ; eager to help colleagues and stakeholders organize important information and drive projects towards success. 
-Good working knowledge of Agile cultures and software development. Experienced supporting Product Owners, designers, and developers.
+I write product documentation (which nowadays mostly means API documentation)
 
 
 <!---
