@@ -13,8 +13,8 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 * Broad knowledge of software development concepts, such as Agile, OOP and functional programming, cloud-hosted architectures, Domain Driven Design, event-driven architecture, microservices architecture.
 * Expertise in RESTful API documentation, design principles, and OpenAPI Specification.
 * Experience with API tools, such as Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
-* Proficient in various programming languages and technologies: .NET (C#), JavaScript, TypeScript, React.js, C, C++, Python, SQL, Java, Kotlin, Scala.
-* Strong background in creating and maintaining style guides for developer documentation, utilizing API style guide templates and customization.
+* Proficient in various programming languages and technologies: .NET (C#), JavaScript, React.js, Python, SQL, MongoDB.
+* Strong background in creating and maintaining style guides for developer documentation, including API style guides.
 * Authored documentation for various authentication mechanisms, including OAuth, JWT, and API Keys.
 
 ---
