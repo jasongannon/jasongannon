@@ -58,7 +58,7 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 
 ## Skills
 
-* **Programming Languages & Technologies:** .NET (C#), JavaScript, TypeScript, React.js, C, C++, Python, SQL, Java, Kotlin, Scala, Azure, PostgreSQL, Kubernetes.
+* **Programming Languages & Technologies:** .NET (C#), JavaScript, React.js, Python, SQL, Azure, PostgreSQL, Kubernetes.
 * **API Tools:** Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
 * **Documentation Formats & Methodologies:** Markdown, HTML, CSS, DOCX, PDF, LATEX, PANDOC, XML.
 * **Modeling & Diagram Tools:** UML, C4, mermaid.js, plantUML, diagrams (Python library).
