@@ -1,8 +1,8 @@
 # Jason Gannon
 
-## Technical Writer | 14 Years in Software Development | Expert in Developer Documentation
+## Technical Writer 
 
-_A highly skilled Senior Technical Writer with a strong focus on API documentation, style, governance, and collaboration. Experienced in working with product managers, designers, and developers to create seamless developer experiences._
+_Senior Technical Writer with 14 years experience in software development and a strong focus on API documentation, style, governance, and collaboration. Experienced in working with product managers, designers, and developers to create engaging and useful developer experiences._
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
@@ -22,13 +22,13 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 ## Work Experience
 
 ### Senior Technical Writer | Pace Software | Full-time | Sep 2021 - Present | Remote
-* Designing, architecting, and governing RESTful APIs while creating documentation that adheres to Open API specifications (Swagger files).
-* Developing and maintaining an intuitive and visually appealing Developer Portal using Redocly Portal, ensuring a seamless experience for developers and end-users alike.
-* Crafting a wide variety of diagrams and models, utilizing tools such as UML, C4, mermaid.js, plantUML, and diagrams (Python library) to provide clear and concise visual representations of complex concepts.
-* Acting as a DevPortal administrator, managing API references, business requirements documents (BRDs), technical specifications, design documents, while maintaining a high standard of quality and accuracy.
-* Performing an array of Product Management tasks, including requirements gathering, writing product requirements documents, and business requirements documents, ensuring a cohesive and well-defined roadmap for product development.
-* Creating both end-user and internal documentation that effectively communicates essential information in a clear and accessible manner.
-* Navigating a diverse technology stack, including Azure, .NET Core, PostgreSQL, Kubernetes, React, and Kotlin, that cater to the ever-evolving needs of the software development landscape.
+* Design, architect, and govern RESTful APIs developerment. Creating documentation that validates to Open API specification.
+* Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehesive information to developers
+* Build diagrams and models with tools like UML, C4, mermaid.js, plantUML, and diagrams (Python library). Work to provide clear and concise models of complex concepts.
+* DevPortal administrator, edit API references, write business requirements documents (BRDs), technical specifications, design documents.
+* Perform several Product Management tasks, including requirements gathering, writing PRDs, and BRds.
+* Create both end-user and internal documentation that communicates essential information in a clear, accurate, and accessible manner.
+* Use a diverse tech stack, including Azure, .NET Core, PostgreSQL, Kubernetes, React, and Kotlin.
 
 ### Senior Technical Analyst | Conduent | Full-time | Sep 2017 - Sep 2021 | Remote
 * Analyst for system owner during creation of enterprise web apps.
