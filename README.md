@@ -2,7 +2,7 @@
 
 ## Technical Writer 
 
-_Senior Technical Writer with 14 years experience in software development and a strong focus on API documentation, style, governance, and collaboration. Experienced in working with product managers, designers, and developers to create engaging and useful developer experiences._
+_Senior Technical Writer with 14 years experience in software development and a strong focus on API documentation, style, governance, and collaboration. Experienced in working with product managers and developers to create engaging and useful developer experiences._
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
