@@ -10,16 +10,36 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 
 ## Summary
 
-* Broad knowledge of software development concepts, such as Agile, OOP and functional programming, cloud-hosted architectures, Domain Driven Design, event-driven architecture, microservices architecture.
-* Expertise in RESTful API documentation, design principles, and OpenAPI Specification.
-* Experience with API tools, such as Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
-* Proficient in various programming languages and technologies: .NET (C#), JavaScript, React.js, Python, SQL, MongoDB.
-* Strong background in creating and maintaining style guides for developer documentation, including API style guides.
-* Authored documentation for various authentication mechanisms, including OAuth, JWT, and API Keys.
+* Twenty years of industry experience
+* Proficient in both the nuances of language and the complexities of technology
+*  Strong researcher and writer who distills complex concepts into clear, accessible language
+*  Skilled information architect and content strategist adept at the organization of site content
+*  Experienced in developing API guides that simplify integration for developers of all skill levels
+*  Skilled in using web analytics to refine content strategy and improve user engagement on documentation sites
+*  Experienced in integrating interactive data visualizations into technical documentation
 
 ---
 
 ## Work Experience
+
+### Senior Technical Writer | United Parcel Service | September 2023 - Present | Remote
+* Perform API governance reviews; ensure OAS validates to OpenAPI standard.
+* Update API specification (OAS) to bring into compliance with OpenAPI standard.
+* Update Developer Portal documentation, Markdown, MDX, and JSX.
+* Design rule set for Spectral linter; established scoring system to evaluate OAS compliance
+* Lead SME interviews with domain and technical SMEs to gather project requirements
+* Conduct review and editing of content, collaborating with SMEs to enhance clarity, readability, and consistency
+* Support product teams during development of new APIs to ensure compliance with OpenAPI 3.1 standard.
+* Develop mock-up for stakeholder review of new devportal
+
+### Senior Technical Writer | Qualtics XM | April 2022 - Present | Remote
+* Updates to Public API documentation. Includes work in Markdown, MDX, JSX/TSX.
+* Liaise between engineers and product managers, ensuring validation of technical details
+* Update API specification (OAS), including descriptions, endpoints, schema.
+* Help administer and update design or developer portal framework (Gatsby SSG).
+* Improve documentation with tutorials, videos, and infographics, creating a more engaging user experience.
+* Manage public collections in Postman, author user guides for Postman integration.
+* See my work at: Qualtrics API Docs.
 
 ### Senior Technical Writer | Pace Software | Full-time | Sep 2021 - Present | Remote
 * Design, architect, and govern RESTful APIs developerment. Creating documentation that validates to Open API specification.
