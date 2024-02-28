@@ -1,8 +1,8 @@
 # Jason Gannon
 
-## Technical Writer 
+## Software Engineer & Technical Writer 
 
-_Senior technical writer and web developer with 14 years of industry experience. I build documentation sites and dev portals and fill them with great content._
+_Senior software engineer and technical writer._
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
