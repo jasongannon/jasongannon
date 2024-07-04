@@ -1,8 +1,8 @@
 # Jason Gannon
 
-## Software Engineer & Technical Writer 
+## Technical Writer
 
-_Senior software engineer and technical writer._
+_Technical Writer_
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
@@ -12,12 +12,11 @@ _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | Link
 
 * Twenty years of industry experience
 * Proficient in both the nuances of language and the complexities of technology
-*  Strong researcher and writer who distills complex concepts into clear, accessible language
-*  Skilled information architect and content strategist adept at the organization of site content
-*  Experienced in developing API guides that simplify integration for developers of all skill levels
-*  Skilled in using web analytics to refine content strategy and improve user engagement on documentation sites
-*  Experienced in integrating interactive data visualizations into technical documentation
-
+* Strong researcher and writer who turns complex concepts into clear, accessible language
+* Skilled information architect and content strategist
+* Experienced in developing API guides that simplify integration for developers of all skill levels
+* Skilled in using web analytics to refine content strategy and improve user engagement on documentation sites
+* Experienced in integrating interactive data visualizations into technical documentation
 ---
 
 ## Work Experience
