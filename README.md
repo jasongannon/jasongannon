@@ -1,8 +1,8 @@
 # Jason Gannon
 
-## Technical Writer
+## API Technical Writer
 
-_Technical Writer_
+_API Technical Writer_
 
 _Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
 
