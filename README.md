@@ -108,7 +108,7 @@ Sep 2004 - Sep 2010 | Las Vegas, Nevada Area
 
 <summary>Education</summary>
 
-- Bachelor of Arts in English Literature, Purdue University, West Lafayette, IN, 2004
+Bachelor of Arts in English Literature, Purdue University, West Lafayette, IN, May 2004
 
 </details>
 
