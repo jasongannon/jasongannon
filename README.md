@@ -32,7 +32,7 @@
 </details>
 
 <details>
-<summary><b>Senior Technical Writer | United Parcel Service | Sep 2023 - Feb 2024</b></summary>
+<summary>Senior Technical Writer | United Parcel Service | Sep 2023 - Feb 2024</summary>
 
 - Perform API governance reviews; ensure OAS validates to OpenAPI standard.
 - Update API specification (OAS) to bring into compliance with OpenAPI standard.
