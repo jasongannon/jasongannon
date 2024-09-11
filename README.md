@@ -96,9 +96,7 @@
 
 <summary>Education</summary>
 
-Bachelor of Arts in English Literature
-Purdue University, West Lafayette, IN 
-Sep 1999–May 2004
+Bachelor of Arts in English Literature | Purdue University, West Lafayette, IN | Sep 1999–May 2004
 
 </details>
 
