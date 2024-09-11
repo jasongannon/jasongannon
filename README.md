@@ -127,7 +127,7 @@ Bachelor of Arts in English Literature, Purdue University, West Lafayette, IN, M
 <details>
 <summary>Contact Information</summary>
 
-_Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [www.linkedin.com/in/jason-gannon](https://www.linkedin.com/in/jason-gannon-974890308/)
+Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [www.linkedin.com/in/jason-gannon](https://www.linkedin.com/in/jason-gannon-974890308/)
 
 </details>
 
