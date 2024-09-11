@@ -127,7 +127,7 @@ Sep 2004 - Sep 2010 | Las Vegas, Nevada Area
 <details>
 <summary>Contact Information</summary>
 
-_Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [linkedin.com/in/jasonmgannon/](https://www.linkedin.com/in/jasonmgannon/)_
+_Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [www.linkedin.com/in/jason-gannon](www.linkedin.com/in/jason-gannon-974890308)_
 
 </details>
 
