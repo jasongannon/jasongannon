@@ -82,9 +82,7 @@
 
 <details>
 
-<summary>Project Manager | The Korte Company</summary>
-
-Sep 2004 - Sep 2010 | Las Vegas, Nevada Area
+<summary>Project Manager | The Korte Company | Sep 2004 - Sep 2010</summary>
 
 - Managed all phases of proposal development.
 - Coordinated with subcontractors to provide budget and schedule for proposal.
@@ -98,7 +96,9 @@ Sep 2004 - Sep 2010 | Las Vegas, Nevada Area
 
 <summary>Education</summary>
 
-Bachelor of Arts in English Literature, Purdue University, West Lafayette, IN, May 2004
+Bachelor of Arts in English Literature
+Purdue University, West Lafayette, IN 
+Sep 1999–May 2004
 
 </details>
 
