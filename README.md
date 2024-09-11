@@ -19,9 +19,20 @@
 <summary>Experience</summary>
 
 <details>
-<summary><b>Senior Technical Writer | United Parcel Service</b></summary>
+<summary>Senior Technical Writer | Qualtics XM | Apr 2022 - Present</summary>
 
-September 2023 - Present | Remote
+- Updates to Public API documentation. Includes work in Markdown, MDX, JSX/TSX.
+- Liaise between engineers and product managers, ensuring validation of technical details
+- Update API specification (OAS), including descriptions, endpoints, schema.
+- Help administer and update design or developer portal framework (Gatsby SSG).
+- Improve documentation with tutorials, videos, and infographics, creating a more engaging user experience.
+- Manage public collections in Postman, author user guides for Postman integration.
+- See my work at: Qualtrics API Docs.
+
+</details>
+
+<details>
+<summary><b>Senior Technical Writer | United Parcel Service | Sep 2023 - Feb 2024</b></summary>
 
 - Perform API governance reviews; ensure OAS validates to OpenAPI standard.
 - Update API specification (OAS) to bring into compliance with OpenAPI standard.
@@ -35,24 +46,7 @@ September 2023 - Present | Remote
 </details>
 
 <details>
-<summary>Senior Technical Writer | Qualtics XM</summary>
-
-April 2022 - Present | Remote
-
-- Updates to Public API documentation. Includes work in Markdown, MDX, JSX/TSX.
-- Liaise between engineers and product managers, ensuring validation of technical details
-- Update API specification (OAS), including descriptions, endpoints, schema.
-- Help administer and update design or developer portal framework (Gatsby SSG).
-- Improve documentation with tutorials, videos, and infographics, creating a more engaging user experience.
-- Manage public collections in Postman, author user guides for Postman integration.
-- See my work at: Qualtrics API Docs.
-
-</details>
-
-<details>
-<summary>Senior Technical Writer | Pace Software</summary>
-
-Sep 2021 - Present | Remote
+<summary>Senior Technical Writer | Pace Software | Sep 2021 - Sep 2023</summary>
 
 - Design, architect, and govern RESTful APIs developement. Creating documentation that validates to Open API specification.
 - Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehesive information to developers
@@ -66,9 +60,7 @@ Sep 2021 - Present | Remote
 
 <details>
 
-<summary>Senior Technical Analyst | Conduent</summary>
-
-Sep 2017 - Sep 2021 | Remote
+<summary>Senior Technical Analyst | Conduent | Sep 2017 - Sep 2021</summary>
 
 - Analyst for system owner during creation of enterprise web apps.
 - Confirm system owner requirements in UAT.
@@ -79,9 +71,7 @@ Sep 2017 - Sep 2021 | Remote
 
 <details>
 
-<summary>Software Analyst | Self-Employed</summary>
-
-Oct 2010 - Sep 2017 | US & Europe
+<summary>Software Analyst | Self-Employed | Oct 2010 - Sep 2017</summary>
 
 - Front-end development and web content: JavaScript, HTML, CSS.
 - Prepared API documentation and managed CMS.
