@@ -25,7 +25,7 @@ Versatile API designer, technical writer, and software developer with over 15 ye
 
 ### Qualtrics
 
-#### Senior Analyst (Technical Writing)	Mar 2022–Sep 2024
+#### Senior Analyst (Technical Writing) | Mar 2022–Sep 2024
 
 Led API documentation and governance programs to improve the quality of public APIs.
 
@@ -36,7 +36,7 @@ Led API documentation and governance programs to improve the quality of public A
 
 ### United Parcel Service (UPS)
 
-#### Senior Analyst (Technical Writing) |Sep 2023–Feb 2024
+#### Senior Analyst (Technical Writing) | Sep 2023–Feb 2024
 
 Led API documentation and governance programs to improve the quality of public APIs.
 
@@ -56,7 +56,7 @@ API design and documentation. Led development of developer portal for fintech st
 
 ### Conduent
 
-#### Senior Technical Writer |Sep 2017–Sep 2021
+#### Senior Technical Writer | Sep 2017–Sep 2021
 
 Developed content models, documentation, and learning plans for enterprise web applications.
 
@@ -82,7 +82,7 @@ Construction manager for commercial construction industry. Estimation, schedulin
 
 ### Purdue University, West Lafayette, Indiana
 
-#### Bachelor of Arts—English Literature, minor in Mathematics |May 2004
+#### Bachelor of Arts—English Literature, minor in Mathematics | May 2004
 
 ## Tools
 
