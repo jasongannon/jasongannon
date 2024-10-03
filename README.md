@@ -66,7 +66,7 @@ Technical writing and web development services for web and mobile applications (
 - Developed responsive web applications during early days of mobile banking applications.
 - Created RESTful web services for financial applications to improve customer experience.
 
-## The Korte Company
+### The Korte Company
 
 #### Preconstruction Manager	Sep 2004–Sep 2010
 
