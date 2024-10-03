@@ -1,7 +1,7 @@
 # Jason Gannon
 ## API Design | Technical Writing | Software Development
 
-765.615.6332   |   jason(dot)gannon@protonmail(dot)com   |   [linkedin.com/in/jasonmgannon](https://www.linkedin.com/in/jasonmgannon/)   |   [github.com/jasongannon](https://github.com/jasongannon)
+seven6five.six1five.six33two   |   jason(dot)gannon@protonmail(dot)com   |   [linkedin.com/in/jasonmgannon](https://www.linkedin.com/in/jasonmgannon/)   |   [github.com/jasongannon](https://github.com/jasongannon)
 
 ## Professional Summary
 
