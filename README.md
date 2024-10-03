@@ -1,123 +1,104 @@
-# Jason Gannon—Technical Writer and Developer
+# Jason Gannon
+## API Design | Technical Writing | Software Development
 
-<details>
-<summary>Career Summary
-</summary>
+765.615.6332   |   jason.gannon@protonmail.com   |   linkedin.com/in/jasonmgannon   |   github.com/jasongannon
 
-- Twenty years of software industry experience
-- Proficient in technical documentation, information architecture, and user experiences
-- Strong researcher and writer who turns complex concepts into clear, accessible language
-- Skilled information architect and content strategist
-- Experienced in developing API guides that simplify integration for developers of all skill levels
-- Skilled in using web analytics to refine content strategy and improve user engagement on documentation sites
-- Experienced in integrating interactive data visualizations into technical documentation
+## Professional Summary
 
-</details>
+Versatile API designer, technical writer, and software developer with over 15 years’ experience in the software industry. Combine strong writing skills with extensive technical experience. Extensive experience in Fintech, including payments, banking, and benefits transfers. Proven record of collaborating with stakeholders to improve the user experience of APIs, software, and documentation.
 
-<details>
+## Skills
+ 
+•	API Design & Documentation
+•	OpenAPI Specifications (OAS)
+•	Developer Portal Development
+•	Fintech: Payments, Banking
+•	Regulatory Compliance (PCI DSS)
+•	Programming (C, .NET, Rust, JavaScript)
+•	Technical Writing & Editing
+•	Information Architecture
+•	Change Management & Version Control
+•	Agile Methodologies
+ 
+## Professional Experience
 
-<summary>Experience</summary>
+### Qualtrics
 
-<details>
-<summary>Senior Technical Writer | Qualtics XM | Apr 2022 - Present</summary>
+#### Senior Analyst (Technical Writing)	Mar 2022–Sep 2024
 
-- Updates to Public API documentation. Includes work in Markdown, MDX, JSX/TSX.
-- Liaise between engineers and product managers, ensuring validation of technical details
-- Update API specification (OAS), including descriptions, endpoints, schema.
-- Help administer and update design or developer portal framework (Gatsby SSG).
-- Improve documentation with tutorials, videos, and infographics, creating a more engaging user experience.
-- Manage public collections in Postman, author user guides for Postman integration.
-- See my work at: Qualtrics API Docs.
+Led API documentation and governance programs to improve the quality of public APIs.
+•	Developed and managed an API style guide and API rulesets to limit inconsistencies across the platform.
+•	Integrated Spectral API linter from Stoplight into our CI/CD pipeline (GitLab/Jenkins.
+•	Improved accuracy and concision of API documentation—40% reduction in support tickets.
+•	Created public API Collections on Postman API, which won Postman’s award for Best New API for 2024.
 
-</details>
+### United Parcel Service (UPS) 
 
-<details>
-<summary>Senior Technical Writer | United Parcel Service | Sep 2023 - Feb 2024</summary>
+#### Senior Analyst (Technical Writing)	Sep 2023–Feb 2024
 
-- Perform API governance reviews; ensure OAS validates to OpenAPI standard.
-- Update API specification (OAS) to bring into compliance with OpenAPI standard.
-- Update Developer Portal documentation, Markdown, MDX, and JSX.
-- Design rule set for Spectral linter; established scoring system to evaluate OAS compliance
-- Lead SME interviews with domain and technical SMEs to gather project requirements
-- Conduct review and editing of content, collaborating with SMEs to enhance clarity, readability, and consistency
-- Support product teams during development of new APIs to ensure compliance with OpenAPI 3.1 standard.
-- Develop mock-up for stakeholder review of new devportal
+Led API documentation and governance programs to improve the quality of public APIs.
+•	Implemented custom Spectral linter for API validation to make sure OASs were correct and consistent.
+•	Refactored public OAS documentation to improve validation rates with the OpenAPI 3.x standard.
+•	Developed a web app prototype for a new developer portal, increasing product teams’ satisfaction.
 
-</details>
+### Pace Software 
 
-<details>
-<summary>Senior Technical Writer | Pace Software | Sep 2021 - Sep 2023</summary>
+#### Senior Technical Writer	Sep 2021–Jul 2023
 
-- Design, architect, and govern RESTful APIs developement. Creating documentation that validates to Open API specification.
-- Develop our Developer Portal using Redocly Portal; work to bring detailed, comprehesive information to developers
-- Build diagrams and models with tools like UML, C4, mermaid.js, plantUML. Work to provide clear models of complex concepts.
-- DevPortal administrator, edit API references, write business requirements documents (BRDs), technical specifications.
-- Perform several Product Management tasks, including requirements gathering, writing PRDs, and BRds.
-- Create both end-user and internal documentation that communicates essential information in a clear, accurate, and accessible manner.
-- Use a diverse tech stack, including Azure, .NET Core, PostgreSQL, Kubernetes, React, and Kotlin.
+API design and documentation. Led development of developer portal for fintech startup (mobile payments).
+•	Designed and documented public APIs to speed up integration with payment processors.
+•	Developed a JSON-based rules engine for logic processing, which reduced system.
+•	Handled all compliance documentation for PCI DSS audits and certifications.
 
-</details>
+### Conduent
 
-<details>
+#### Senior Technical Writer	Sep 2017–Sep 2021
 
-<summary>Senior Technical Analyst | Conduent | Sep 2017 - Sep 2021</summary>
+Developed content models, documentation, and learning plans for enterprise web applications.
+•	Developed content models, document models, and a task roadmap that sped up employee onboarding.
+•	Ensured software and documentation updates were in 100% compliance with industry regulations.
 
-- Analyst for system owner during creation of enterprise web apps.
-- Confirm system owner requirements in UAT.
-- Design documentation and plan end user onboarding.
-- Validated drafts of step guides in the testing environment; capture system updates.
+### Self-Employed
 
-</details>
+#### Senior Technical Writer	Oct 2010–Present
 
-<details>
+Technical writing and web development services for web and mobile applications (banking).
+•	Developed responsive web applications during early days of mobile banking applications.
+•	Created RESTful web services for financial applications to improve customer experience.
 
-<summary>Software Analyst | Self-Employed | Oct 2010 - Sep 2017</summary>
+## The Korte Company
 
-- Front-end development and web content: JavaScript, HTML, CSS.
-- Prepared API documentation and managed CMS.
-- Worked with a global team of developers, product owners, scrum masters to aid documentation.
-- Client list included Hewlett Packard, EY, PwC, Nokia, Ericsson, Siemens.
+#### Preconstruction Manager	Sep 2004–Sep 2010
 
-</details>
+Construction manager for commercial construction industry. Estimation, scheduling, project management.
+## Education
 
-<details>
+### Purdue University, West Lafayette, Indiana
 
-<summary>Project Manager | The Korte Company | Sep 2004 - Sep 2010</summary>
+#### Bachelor of Arts—English Literature, minor in Mathematics	May 2004
 
-- Managed all phases of proposal development.
-- Coordinated with subcontractors to provide budget and schedule for proposal.
-- Worked with engineering team SMEs to develop project and systems descriptions.
-- Built and managed department takeoff and estimating databases (MS Access).
+## Tools
 
-</details>
-</details>
+•	Languages: C, Go, SQL, Rust, JavaScript, HTML & CSS
+•	Frameworks: React, Next.js, Astro, Svelte, Node.js, Express.js, .NET
+•	API Tools: Swagger, Postman, Stoplight, Redoc, Spectral linter
+•	Documentation: Markdown, LaTex, AsciiDoc, reStructuredText
+•	Diagramming: Visio, Lucidchart, draw.io, PlantUML, Mermaid JS
+•	Version Control: Git, GitHub, GitLab
+## Certifications
 
-<details>
+•	OpenAPI Initiative (OAI) Certified OpenAPI Specialist
+•	API Documentation Certification
+•	Postman API Certification
+•	PCI DSS Compliance Fundamentals
 
-<summary>Education</summary>
+## Sample Projects
 
-Bachelor of Arts in English Literature | Purdue University, West Lafayette, IN | Sep 1999–May 2004
+•	[Pace Software Developer Portal & API Reference](https://developer.pacesoft.net/)
+•	[Integrating with RuleEngine](https://github.com/jasongannon/work-samples/blob/main/rulesengine.md)
+•	[Spectral API Linter Web Application](https://github.com/jasongannon/open-api-linter)
+•	[Linking to Your Postman API Collection](https://github.com/jasongannon/work-samples/blob/main/linking-to-postman.md)
 
-</details>
-
-<details>
-
-<summary>Skills</summary>
-
-- **Programming Languages & Technologies:** .NET (C#), JavaScript, React.js, Python, SQL, Azure, PostgreSQL, Kubernetes.
-- **API Tools:** Swagger, Postman, RapidAPI, Redoc, Stoplight, apiDoc.
-- **Documentation Formats & Methodologies:** Markdown, HTML, CSS, DOCX, PDF, LATEX, PANDOC, XML.
-- **Modeling & Diagram Tools:** UML, C4, mermaid.js, plantUML, diagrams (Python library).
-- **Version Control:** Git, GitHub, GitLab.
-
-</details>
-
-<details>
-<summary>Contact Information</summary>
-
-Email: [jason.gannon@protonmail.com](mailto:jason.gannon@protonmail.com) | LinkedIn: [www.linkedin.com/in/jason-gannon](https://www.linkedin.com/in/jason-gannon-974890308/)
-
-</details>
 
 <!---
 jasongannon/jasongannon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
