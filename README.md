@@ -1,31 +1,32 @@
 # Jason Gannon
 
-## API Design | Technical Writing | Software Development
+## Technical Writing | API Design & Documentation
 
 seven6five.six1five.six33two   |   jason(dot)gannon@protonmail(dot)com   |   [linkedin.com/in/jasonmgannon](https://www.linkedin.com/in/jasonmgannon/)   |   [github.com/jasongannon](https://github.com/jasongannon)
 
 ## Professional Summary
 
-Versatile API designer, technical writer, and software developer with over 15 years’ experience in the software industry. Combine strong writing skills with extensive technical experience. Extensive experience in Fintech, including payments, banking, and benefits transfers. Proven record of collaborating with stakeholders to improve the user experience of APIs, software, and documentation.
+Versatile technical writer, API designer, and software developer with over 15 years’ experience in the software industry. Expertise in user & developer documentation. Expertise in the OpenAPI Specification and REST API design. Extensive experience in fintech, including banking and payments (PCI DSS). Strong background in security, data privacy, and regulatory compliance. Enjoy collaborating with stakeholders to improve the user experience of APIs, software, and documentation.
 
 ## Skills
 
+- Technical Documentation
 - API Design & Documentation
-- OpenAPI Specifications (OAS)
-- Developer Portal Development
-- Fintech: Payments, Banking
-- Regulatory Compliance (PCI DSS)
-- Programming (C, .NET, Rust, JavaScript)
+- User Experience; Developer Experience
+- Fintech: Banking, Payments (PCI DSS)
+- Security; Data Privacy; Regulatory Compliance
 - Technical Writing & Editing
-- Information Architecture
+- Markdown, HTML, CSS, JavaScript
+- Information Architecture; Content Modeling
 - Change Management & Version Control
-- Agile Methodologies
+- SDLC; Agile Methodologies
+
 
 ## Professional Experience
 
 ### Qualtrics
 
-#### Senior Analyst (Technical Writing) | Mar 2022–Sep 2024
+#### Senior Technical Analyst  (Technical Writing) | Mar 2022–Sep 2024
 
 Led API documentation and governance programs to improve the quality of public APIs.
 
@@ -36,7 +37,7 @@ Led API documentation and governance programs to improve the quality of public A
 
 ### United Parcel Service (UPS)
 
-#### Senior Analyst (Technical Writing) | Sep 2023–Feb 2024
+#### Senior Technical Analyst  (Technical Writing) | Sep 2023–Feb 2024
 
 Led API documentation and governance programs to improve the quality of public APIs.
 
@@ -56,7 +57,7 @@ API design and documentation. Led development of developer portal for fintech st
 
 ### Conduent
 
-#### Senior Technical Writer | Sep 2017–Sep 2021
+#### Senior Technical Analyst (Technical Writing) | Sep 2017–Sep 2021
 
 Developed content models, documentation, and learning plans for enterprise web applications.
 
@@ -86,12 +87,12 @@ Construction manager for commercial construction industry. Estimation, schedulin
 
 ## Tools
 
-- Languages: C, Go, SQL, Rust, JavaScript, HTML & CSS
-- Frameworks: React, Next.js, Astro, Svelte, Node.js, Express.js, .NET
-- API Tools: Swagger, Postman, Stoplight, Redoc, Spectral linter
-- Documentation: Markdown, LaTex, AsciiDoc, reStructuredText
-- Diagramming: Visio, Lucidchart, draw.io, PlantUML, Mermaid JS
-- Version Control: Git, GitHub, GitLab
+- **Documentation**: Markdown, LaTex, AsciiDoc, reStructuredText
+- **API Tools**: Swagger, Postman, Stoplight, Redoc, Spectral linter
+- **Languages**: C, Go, SQL, Rust, JavaScript, HTML & CSS
+- **Frameworks**: React, Next.js, Astro, Svelte, Node.js, Express.js, .NET
+- **Diagramming**: Visio, Lucidchart, draw.io, PlantUML, Mermaid JS
+- **Version Control**: Git, GitHub, GitLab
 
 ## Certifications
 
